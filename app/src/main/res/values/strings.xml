@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KotlinReduxTodo</string>
+    <string name="add">ADD</string>
+    <string name="all">ALL</string>
+    <string name="active">ACTIVE</string>
+    <string name="completed">COMPLETED</string>
 </resources>
