@@ -2,4 +2,4 @@
 
 ✨ Sample of using `Redux` in android development with `Kotlin`.
 
-![TodoApp](images/device-2020-11-16-155256.png =200x)
+![TodoApp](images/device-2020-11-16-155256.png)
