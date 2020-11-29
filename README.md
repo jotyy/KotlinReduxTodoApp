@@ -1,5 +1,5 @@
 # Kotlin Redux Todo App
 
-✨ Sample of using `Redux` in android development with `Kotlin`.
+✨ A Sample of  `Redux` in Android development.
 
 ![TodoApp](images/device-2020-11-16-155256.png)
